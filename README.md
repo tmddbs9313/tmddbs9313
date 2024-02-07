@@ -5,9 +5,6 @@
 <h3 align="center">❤️ I like...</h3>
 <p align="center">💪Exercise,&nbsp;&nbsp;🖥Youtube,&nbsp;&nbsp;💻Programming,&nbsp;&nbsp;🎥Movies,&nbsp;&nbsp;✈️Trip&nbsp;&nbsp;</p>
 <br>
- <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
-<p align="center">
-![seungyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddbs9313&show_icons=true&theme=radical)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
