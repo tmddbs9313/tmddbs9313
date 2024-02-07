@@ -7,8 +7,8 @@
 <br>
  <h3 align="center"><b>🔫 Hits 🔫 </b></h3>
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyouhyeoneee%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-  
+![seungyoun's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmddbs9313&show_icons=true&theme=radical)
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/o3_o4.1o/">
